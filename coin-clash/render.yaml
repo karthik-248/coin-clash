@@ -1,7 +1,0 @@
-services:
-  - type: web
-    name: coin-clash
-    runtime: node
-    buildCommand: npm install
-    startCommand: npm start
-    plan: free
